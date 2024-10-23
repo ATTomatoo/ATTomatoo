@@ -18,7 +18,7 @@
 </div>
 
 
-<!--img align="center" src="./images/github-contribution-grid-snake.svg" style="max-width: 90%;"-->
+<img align="center" src="./images/github-contribution-grid-snake.svg" style="max-width: 90%;">
 
 
 
